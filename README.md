@@ -63,7 +63,7 @@
 
 ### 🧠 Competitive Programming
 
-- [LeetCode](https://www.linkedin.com/in/kashyap-trivedi-504957286/): 800+ Problems | 536+ Days POTD Streak  
+- [LeetCode](https://leetcode.com/u/Kashyap_Trivedi/): 800+ Problems | 536+ Days POTD Streak  
 - [GFG](https://www.geeksforgeeks.org/user/kashyaptriqjr3/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user): 400+ Problems | 309+ Days POTD Streak
 
 - ---
