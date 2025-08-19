@@ -113,6 +113,6 @@
 
 - ✉ Email: [kashyap.trivedi2004@gmail.com](mailto:kashyap.trivedi2004@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/kashyap-trivedi-504957286](https://www.linkedin.com/in/kashyap-trivedi-504957286)
-- 💻 [Portfolio](https://kashyap-trivedi19.vercel.app/)
+- 💻 [Portfolio](https://kashyap-trivedi-dev.vercel.app/)
 
 ---
